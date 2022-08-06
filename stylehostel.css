@@ -135,10 +135,10 @@ nav img{width: 100px;}
         line-height: 75px;
         font-size: 30px;
 }
-.amminities #amm1{background-image: url(file:///Users/sahajdeepsinghnarang/Desktop/hostelll/images/main%20blue%20room.jpg); background-size: auto;}
-.amminities #amm2{background-image: url(file:///Users/sahajdeepsinghnarang/Desktop/hostelll/images/messsssssss.jpg);}
-.amminities #amm3{background-image: url(file:///Users/sahajdeepsinghnarang/Desktop/hostelll/images/gymm.jpg);}
-.amminities #amm4{background-image: url(file:///Users/sahajdeepsinghnarang/Desktop/hostelll/images/guard.jpg);}
+.amminities #amm1{background-image: url(main%20blue%20room.jpg); background-size: auto;}
+.amminities #amm2{background-image: url(messsssssss.jpg);}
+.amminities #amm3{background-image: url(gymm.jpg);}
+.amminities #amm4{background-image: url(guard.jpg);}
     
 .amminities  .layer  h4{position: relative; top: 80%; transition: 0.5s; color: white;}
 .amminities  .layer:hover{}
